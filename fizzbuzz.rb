@@ -2,6 +2,7 @@
 # See README.md for instructions on how to do this
 
 
-def fizz_buzz
+def fizzbuzz(num)
+  if num % 3 == 0 && num % 5 == 0
   
 end
